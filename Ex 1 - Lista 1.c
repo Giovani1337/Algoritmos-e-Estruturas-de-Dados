@@ -1,4 +1,7 @@
 #include<stdio.h>
+//Escreva uma função recursiva que retorne o maior número de um vetor.
+
+
 int maior( int vetor[], int tamanho )
 {
     int var;
