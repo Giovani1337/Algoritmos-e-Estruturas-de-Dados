@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Escreva uma função recursiva que retorne o menor número de um vetor.
 int menor( int vetor[], int tamanho )
 {
     int var;
